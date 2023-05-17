@@ -1,23 +1,23 @@
-# Hi everyone, i'm Kevin Allioli
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kallioli/linitio/main/img/code.gif" width="53%" />
+# Hi everyone, i'm Benjamin Boualam
+<img align="right" alt="GIF" src="https://github.com/Lucroz94/Lucroz94/blob/main/images/code.gif" width="53%" />
 <p>
 Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
-    <li>👨‍🔧 I'm an <b>IT engineer</b></li>
-    <li>📍 Based near <b>Geneva</b></li>
-    <li>🏢 I'm working for <b>Infomaniak Network</b> & <b>LinIT</b></li>
-    <li>🌱 I'm currently learning <b>COA Certification</b> and <b>Python</b></li>
-    <li>💬 You can ask me about <b>OpenStack, Docker, Cloud Architecture...</b></li>
-    <li>📮 You can contact me directly here : <b>kevin@linit.io</b>
+    <li>👨‍🔧 I'm an <b>Junior DevOps / SRE</b></li>
+    <li>📍 Based near <b>Paris but actively looking to move to Geneva</b></li>
+    <li>🏢 I'm working for <b>myself for now/b>
+    <li>🌱 I'm currently learning <b>Kubernetes in order to get my CKA</b> and <b>multiples other DevOps tools like Ansible, Helm and observability stack (Prometheus, Grafana...)</b></li>
+    <li>💬 You can ask me about <b>Linux, Docker, Kubernetes, Terraform...</b></li>
+    <li>📮 You can contact me directly here : <b>lucroz@lucroz.fr</b>
   </ul>
-Passionate IT engineer and trainer, I am always looking for new challenges.
-<br>For a few years now I've been focusing on cloud architecture and deployment, especially with <b>OpenStack</b> and <b>AWS</b> solutions as well as <b>containerization technologies</b>. I'm also working on <b>learning contents</b> on these same topics.<br>
+Passionate IT engineer, I am always looking for new challenges.
+<br>For a few years now I've been focusing on Linux System Admnistration as well as <b>containerization technologies</b>, the path of DevOps with Infrastructure as Code and CI/CD pipelines, configuration management. I'm also working on <b>learning contents</b> on these same topics.<br>
 If you want to discuss about it, feel free to contact me.
 </p>
 
 ## 🌐 You can find me on :
 <p align="center">
-  <a href="https://www.linkedin.com/in/kevinallioli/" target="_blank"><img alt="Kevin Allioli LinkedIn profile" src="https://static.linit.io/img/button/linkedin-button.png" width="13%"></a>
+  <a href="https://www.linkedin.com/in/benjamin-boualam/" target="_blank"><img alt="Kevin Allioli LinkedIn profile" src="https://static.linit.io/img/button/linkedin-button.png" width="13%"></a>
   <a href="https://twitter.com/linit_io/" target="_blank"><img alt="linit.io Twitter profile" src="https://static.linit.io/img/button/twitter-button.png" width="13%"></a>
   <a href="https://www.openstack.org/community/members/profile/139244/kevin-allioli" target="_blank"><img alt="Kevin Allioli OpenInfra profile" src="https://static.linit.io/img/button/openinfra-button.png" width="13%"></a>
   <a href="https://www.youtube.com/channel/UCprX4LgBZkGr6hcyy5NSgoQ"><img alt="linit.io YouTube channel" src="https://static.linit.io/img/button/youtube-button.png" width="13%"></a>
