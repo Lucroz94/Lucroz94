@@ -108,7 +108,7 @@ If you want to discuss about it, feel free to contact me.
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/github-logo.png" width="48" height="48" alt="Jenkins" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/jenkins-continuous-integration-build-automation-continuous-delivery-software-build-integration-thumbnail.jpg" width="48" height="48" alt="Jenkins" />
       </a>
       <br>Jenkins
     </td>
@@ -216,17 +216,17 @@ If you want to discuss about it, feel free to contact me.
   </table>
   <br />
 </details>
- 
+
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Kaisen Linux & Windows 11 with WSL2 Debian image</li>
-	    <li><b>Laptop: </b> Lenovo IdeadPAD 5 ARE15 ( Ryzen 7 4800U, 16GB DDR4)"</li>
+	    <li><b>Laptop: </b> Lenovo IdeadPAD 5 ARE15 ( Ryzen 7 4800U, 16GB DDR4)</li>
   	    <li><b>Browser: </b> Firefox Web Browser & Brave Web Browser</li>
-	    <li><b>Terminal: </b> Bash:</li>
+	    <li><b>Terminal: </b> Bash</li>
 	    <li><b>Code Editor:</b> VSCode</li>
-	    <li><b>To Stay Updated:</b> Linkedin.</li>
+	    <li><b>To Stay Updated:</b> Linkedin</li>
 	</ul>	
 </details>
 
