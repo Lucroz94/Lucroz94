@@ -24,7 +24,7 @@ If you want to discuss about it, feel free to contact me.
 ## 🖥️ My tech stacks :
 
 <p align="right">
-  <h3><i>Hosting providers & Hypervisors:</i></h3>
+  <h3><i>Hosting providers:</i></h3>
   <table>
   <tr border: none;>
     <td align="center" width="110">
@@ -33,39 +33,25 @@ If you want to discuss about it, feel free to contact me.
       </a>
       <br>AWS
     </td>
-  <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/Google-Cloud-Platform-300x300-1.png" width="48" height="48" alt="GCP" />
       </a>
       <br>GCP
-    </td>
-    <tr border: none;>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/PROXMOX-300x300.png" width="48" height="48" alt="Proxmox" />
-      </a>
-      <br>Proxmox
-    </td>  
+    </td> 
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/PROXMOX-300x300.png" width="48" height="48" alt="Proxmox" />
       </a>
       <br>Proxmox
     </td>
-    <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/PROXMOX-300x300.png" width="48" height="48" alt="VMware Products" />
       </a>
       <br>VMware Products
-    </td>  
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/PROXMOX-300x300.png" width="48" height="48" alt="VMware Products" />
-      </a>
-      <br>VMware Products
-    </td>          
+    </td>
+  </tr>
 </table>
 <p>
   <h3><i>Languages:</i></h3>
