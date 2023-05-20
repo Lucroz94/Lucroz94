@@ -207,8 +207,7 @@ If you want to discuss about it, feel free to contact me.
         <td><b>💻 Projects</b></td>
         <td><b>🌟 Stars</b></td>
         <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
+        <td><b>🐛 Contributors</b></td>
         <td><b>👨‍💻 Language</b></td>
       </tr>
     </thead>
