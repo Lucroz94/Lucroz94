@@ -39,19 +39,27 @@ If you want to discuss about it, feel free to contact me.
         <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/Google-Cloud-Platform-300x300-1.png" width="48" height="48" alt="GCP" />
       </a>
       <br>GCP
-    </td>  	  
+    </td>
+    <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/Google-Cloud-Platform-300x300-1.png" width="48" height="48" alt="GCP" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/PROXMOX-300x300.png" width="48" height="48" alt="Proxmox" />
       </a>
-      <br>GCP
-    </td>
+      <br>Proxmox
+    </td>  
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/PROXMOX-300x300.png" width="48" height="48" alt="Proxmox" />
       </a>
       <br>Proxmox
     </td>
+    <tr border: none;>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/PROXMOX-300x300.png" width="48" height="48" alt="VMware Products" />
+      </a>
+      <br>VMware Products
+    </td>  
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/PROXMOX-300x300.png" width="48" height="48" alt="VMware Products" />
