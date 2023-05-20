@@ -115,7 +115,7 @@ If you want to discuss about it, feel free to contact me.
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/jenkins-continuous-integration-build-automation-continuous-delivery-software-build-integration-thumbnail.jpg" width="48" height="48" alt="Jenkins" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/jenkins_logo.png" width="48" height="48" alt="Jenkins" />
       </a>
       <br>Jenkins
     </td>
@@ -146,7 +146,7 @@ If you want to discuss about it, feel free to contact me.
         </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/Kubernetes.png" width="48" height="48" alt="Kubernetes" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/Kubernetes_logo_without_workmark.svg.png" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
     </td>
