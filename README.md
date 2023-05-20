@@ -5,13 +5,13 @@ Nice to meet you. Let me introduce myself in a few lines.
   <ul>
     <li>👨‍🔧 I'm an <b>Junior DevOps / SRE / Linux System Engineer</b></li>
     <li>📍 Based near <b>Paris but actively looking to move to french speaking Switzerland area or English speaking Switzerland.</b></li>
-    <li>🏢 I'm working for <b>no one for the moment, actively searching for a new job in Switzerland/b>
+    <li>🏢 I'm working for <b>no one for the moment, actively searching for a new job in Switzerland</b></li>
     <li>🌱 I'm currently learning <b>Kubernetes in order to get my CKA</b> and <b>multiples other DevOps tools like Ansible, Helm and observability stack (Prometheus, Grafana...)</b></li>
     <li>💬 You can ask me about <b>Linux, Docker, Kubernetes, Terraform...</b></li>
     <li>📮 You can contact me directly here : <b>benjaminboualam@gmail.com</b>
   </ul>
 Passionate IT engineer, I am always looking for new challenges.
-<br>For a few years now I've been focusing on Linux System Admnistration as well as <b>containerization technologies</b>, the path of DevOps with Infrastructure as Code and CI/CD pipelines, configuration management, Infrastrucre as Code and so on. I'm also working on <b>learning contents</b> on these same topics.<br>
+<br>For a few years now I've been focusing on Linux System Administration as well as <b>containerization technologies</b>, the path of DevOps with <b>Infrastructure as Code</b>, <b>CI/CD pipelines</b>, <b>Configuration Management</b> and so on. I'm also working on <b>learning contents</b> on these same topics.<br>
 If you want to discuss about it, feel free to contact me.
 </p>
 
