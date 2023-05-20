@@ -32,7 +32,14 @@ If you want to discuss about it, feel free to contact me.
         <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/aws-logo%20(1).png" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
-    </td>	  
+    </td>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/Google-Cloud-Platform-300x300-1.png" width="48" height="48" alt="GCP" />
+      </a>
+      <br>GCP
+    </td>  	  
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/Google-Cloud-Platform-300x300-1.png" width="48" height="48" alt="GCP" />
