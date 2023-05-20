@@ -20,7 +20,7 @@ If you want to discuss about it, feel free to contact me.
 ## 🌐 You can find me on :
 <p align="center">
   <a href="https://www.linkedin.com/in/benjamin-boualam/" target="_blank"><img alt="Benjamin Boualam LinkedIn profile" src="https://github.com/Lucroz94/Lucroz94/blob/main/images/linkedin-button.png" width="13%"></a>
-  <a href="https://wiki-tech.io/" target="_blank"><img alt="Wiki-Tech Article" src="https://github.com/Lucroz94/Lucroz94/blob/main/images/wiki_-_tech.gif" width="13%"></a>
+  <a href="https://wiki-tech.io/" target="_blank"><img alt="Wiki-Tech Article" src="https://github.com/Lucroz94/Lucroz94/blob/main/images/wiki-tech.gif" width="13%"></a>
 </p>
 
 ## 🖥️ My tech stacks :
@@ -31,25 +31,25 @@ If you want to discuss about it, feel free to contact me.
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/aws-logo%20(1).png" width="48" height="48" alt="AWS" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/aws-logo.png" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/Google-Cloud-Platform-300x300-1.png" width="48" height="48" alt="GCP" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/GCP-logo.png" width="48" height="48" alt="GCP" />
       </a>
       <br>GCP
     </td> 
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/PROXMOX-300x300.png" width="48" height="48" alt="Proxmox" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/proxmox-logo.png" width="48" height="48" alt="Proxmox" />
       </a>
       <br>Proxmox
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/vmware-logo-300x300.jpg" width="48" height="48" alt="VMware Products" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/vmware-logo.jpg" width="48" height="48" alt="VMware Products" />
       </a>
       <br>VMware Products
     </td>
@@ -148,7 +148,7 @@ If you want to discuss about it, feel free to contact me.
         </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/Kubernetes_logo_without_workmark.svg.png" width="48" height="48" alt="Kubernetes" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/kubernetes-logo.png" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
     </td>
