@@ -1,17 +1,19 @@
-# Hi everyone, i'm Benjamin Boualam
+# Hi everyone, I'm Benjamin Boualam
 <img align="right" alt="GIF" src="https://github.com/Lucroz94/Lucroz94/blob/main/images/code.gif" width="53%" />
 <p>
 Nice to meet you. Let me introduce myself in a few lines.
   <ul>
-    <li>👨‍🔧 I'm an <b>Junior DevOps / SRE / Linux System Engineer</b></li>
-    <li>📍 Based near <b>Paris but actively looking to move to french speaking Switzerland area or English speaking Switzerland.</b></li>
+    <li>👨‍🔧 I'm a <b>Junior DevOps / SRE / Linux System Engineer</b></li>
+    <li>📍 Based near <b>Paris but actively looking to move to French speaking Switzerland area or English speaking Switzerland.</b></li>
     <li>🏢 I'm working for <b>no one for the moment, actively searching for a new job in Switzerland</b></li>
     <li>🌱 I'm currently learning <b>Kubernetes in order to get my CKA</b> and <b>multiples other DevOps tools like Ansible, Helm and observability stack (Prometheus, Grafana...)</b></li>
     <li>💬 You can ask me about <b>Linux, Docker, Kubernetes, Terraform...</b></li>
     <li>📮 You can contact me directly here : <b>benjaminboualam@gmail.com</b>
+    <li>💬 For hobbies, I love climbing (bouldering and sport climbing) currently at 6c. I'm an amateur astronomer and passionate about video games, music and cinema (mostly metal)</b>
+
   </ul>
 Passionate IT engineer, I am always looking for new challenges.
-<br>For a few years now I've been focusing on Linux System Administration as well as <b>containerization technologies</b>, the path of DevOps with <b>Infrastructure as Code</b>, <b>CI/CD pipelines</b>, <b>Configuration Management</b> and so on. I'm also working on <b>learning contents</b> on these same topics.<br>
+<br>For a few years now, I've been focusing on Linux System Administration as well as <b>containerization technologies</b>, the path of DevOps with <b>Infrastructure as Code</b>, <b>CI/CD pipelines</b>, <b>Configuration Management</b> and so on. I'm also working on <b>learning contents</b> of these same topics.<br>
 If you want to discuss about it, feel free to contact me.
 </p>
 
@@ -213,11 +215,10 @@ If you want to discuss about it, feel free to contact me.
     <tbody>
       <tr>
 	<td><a href="https://github.com/PAPAMICA/Wiki-Tech.io"><b>📦 Wiki-Tech</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/linitio/openstack-alpine-image?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/linitio/openstack-alpine-image?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/linitio/openstack-alpine-image?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linitio/openstack-alpine-image?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/linitio/openstack-alpine-image?style=flat-square"/></td> 
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/PAPAMICA/Wiki-Tech.io?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/PAPAMICA/Wiki-Tech.io?style=social"/></td>
+        <td><img alt="Contributors" src="https://img.shields.io/github/contributors/PAPAMICA/Wiki-Tech.io?style=social"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/PAPAMICA/Wiki-Tech.io?style=flat-square"/></td> 
       </tr>
     </tbody>
   </table>
