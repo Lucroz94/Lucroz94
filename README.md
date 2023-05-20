@@ -17,34 +17,40 @@ If you want to discuss about it, feel free to contact me.
 
 ## 🌐 You can find me on :
 <p align="center">
-  <a href="https://www.linkedin.com/in/benjamin-boualam/" target="_blank"><img alt="Benjamin Boualam LinkedIn profile" src="https://github.com/Lucroz94/Lucroz94/blob/main/images/code.gif" width="13%"></a>
-  <a href="https://wiki-tech.io/" target="_blank"><img alt="Wiki-Tech Article" src="https://github.com/Lucroz94/Lucroz94/blob/main/images/code.gif" width="13%"></a>
+  <a href="https://www.linkedin.com/in/benjamin-boualam/" target="_blank"><img alt="Benjamin Boualam LinkedIn profile" src="https://github.com/Lucroz94/Lucroz94/blob/main/images/linkedin-button.png" width="13%"></a>
+  <a href="https://wiki-tech.io/" target="_blank"><img alt="Wiki-Tech Article" src="https://github.com/Lucroz94/Lucroz94/blob/main/images/wiki_-_tech.gif" width="13%"></a>
 </p>
 
 ## 🖥️ My tech stacks :
 
 <p align="right">
-  <h3><i>Hosting providers:</i></h3>
+  <h3><i>Hosting providers & Hypervisors:</i></h3>
   <table>
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/aws-logo.png" width="48" height="48" alt="AWS" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/aws-logo%20(1).png" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>	  
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/ipc-logo.png" width="48" height="48" alt="GCP" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/Google-Cloud-Platform-300x300-1.png" width="48" height="48" alt="GCP" />
       </a>
       <br>GCP
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/ipc-logo.png" width="48" height="48" alt="Proxmox" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/PROXMOX-300x300.png" width="48" height="48" alt="Proxmox" />
       </a>
       <br>Proxmox
-    </td>    
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/PROXMOX-300x300.png" width="48" height="48" alt="VMware Products" />
+      </a>
+      <br>VMware Products
+    </td>          
 </table>
 <p>
   <h3><i>Languages:</i></h3>
@@ -52,19 +58,19 @@ If you want to discuss about it, feel free to contact me.
   <tr border: none;>
    <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/bash-logo.png" width="48" height="48" alt="Bash" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/bash-logo.png" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/markdown-logo.png" width="48" height="48" alt="Markdown" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/markdown-logo.png" width="48" height="48" alt="Markdown" />
       </a>
       <br>Markdown
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/yaml-logo.png" width="48" height="48" alt="YAML" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/yaml-logo.png" width="48" height="48" alt="YAML" />
       </a>
       <br>YAML
     </td>
@@ -77,25 +83,25 @@ If you want to discuss about it, feel free to contact me.
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/debian-logo.png" width="48" height="48" alt="Debian" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/debian-logo.png" width="48" height="48" alt="Debian" />
       </a>
       <br>Debian
     </td>	  
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/redhat-logo.png" width="48" height="48" alt="CentOS" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/centos-logo.png" width="48" height="48" alt="CentOS" />
       </a>
       <br>CentOS
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/ubuntu-logo.png" width="48" height="48" alt="Ubuntu" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/ubuntu-logo.png" width="48" height="48" alt="Ubuntu" />
       </a>
       <br>Ubuntu
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/windows-logo.png?raw=true" width="48" height="48" alt="Windows" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/windows-logo.png" width="48" height="48" alt="Windows" />
       </a>
       <br>Windows
     </td>
@@ -114,56 +120,56 @@ If you want to discuss about it, feel free to contact me.
     </td>
        <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/gitlab-logo.png" width="48" height="48" alt="GitLab-CI" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/gitlab-logo.png" width="48" height="48" alt="GitLab-CI" />
       </a>
       <br>Gitlab-CI
     </td>	  
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/ansible-logo.png" width="48" height="48" alt="Ansible" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/ansible-logo.png" width="48" height="48" alt="Ansible" />
       </a>
       <br>Ansible
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/cloud-init-logo.png" width="48" height="48" alt="Cloud-Init" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/cloud-init-logo.png" width="48" height="48" alt="Cloud-Init" />
       </a>
       <br>Cloud-Init
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/docker-logo.png" width="48" height="48" alt="Docker" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/docker-logo.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
         </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/docker-logo.png" width="48" height="48" alt="Kubernetes" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/Kubernetes.png" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/git-logo.png" width="48" height="48" alt="Git" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/git-logo.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/terraform-logo.png" width="48" height="48" alt="Terraform" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/terraform-logo.png" width="48" height="48" alt="Terraform" />
       </a>
       <br>Terraform
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/terraform-logo.png" width="48" height="48" alt="Vagrant" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/vagrant-logo.png" width="48" height="48" alt="Vagrant" />
       </a>
       <br>Vagrant
     </td>    
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://static.linit.io/img/logo/visual-studio-logo.png" width="48" height="48" alt="Visual Studio Code" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/visual-studio-logo.png" width="48" height="48" alt="Visual Studio Code" />
       </a>
       <br>VS Code
     </td>
