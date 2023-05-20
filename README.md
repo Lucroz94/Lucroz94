@@ -47,7 +47,7 @@ If you want to discuss about it, feel free to contact me.
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/VMware-Logo.wine.png" width="48" height="48" alt="VMware Products" />
+        <img src="https://github.com/Lucroz94/Lucroz94/blob/main/images/vmware-logo-300x300.jpg" width="48" height="48" alt="VMware Products" />
       </a>
       <br>VMware Products
     </td>
